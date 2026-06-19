@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://live-chat-app-backend-1pu4.onrender.com/api',
+  baseURL: 'https://live-chat-app-backend-1pu4.onrender.comnpm/api',
   headers: { 'Content-Type': 'application/json' }
 });
 
